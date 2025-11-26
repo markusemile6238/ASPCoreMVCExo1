@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pro\\source\\repos\\AspNet\\EXO\\ASPCoreMVCExo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E141CDB-A904-4FEB-9A06-8E8F46AD41F1}|VillaAgency.csproj|c:\\users\\pro\\source\\repos\\aspnet\\exo\\aspcoremvcexo1\\models\\properties\\propertie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E141CDB-A904-4FEB-9A06-8E8F46AD41F1}|VillaAgency.csproj|solutionrelative:models\\properties\\propertie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E141CDB-A904-4FEB-9A06-8E8F46AD41F1}|VillaAgency.csproj|c:\\users\\pro\\source\\repos\\aspnet\\exo\\aspcoremvcexo1\\controllers\\propertiecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E141CDB-A904-4FEB-9A06-8E8F46AD41F1}|VillaAgency.csproj|solutionrelative:controllers\\propertiecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E141CDB-A904-4FEB-9A06-8E8F46AD41F1}|VillaAgency.csproj|c:\\users\\pro\\source\\repos\\aspnet\\exo\\aspcoremvcexo1\\controllers\\contactcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E141CDB-A904-4FEB-9A06-8E8F46AD41F1}|VillaAgency.csproj|solutionrelative:controllers\\contactcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E141CDB-A904-4FEB-9A06-8E8F46AD41F1}|VillaAgency.csproj|c:\\users\\pro\\source\\repos\\aspnet\\exo\\aspcoremvcexo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E141CDB-A904-4FEB-9A06-8E8F46AD41F1}|VillaAgency.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Propertie.cs",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\AspNet\\EXO\\ASPCoreMVCExo1\\Models\\Properties\\Propertie.cs",
+              "RelativeDocumentMoniker": "Models\\Properties\\Propertie.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\AspNet\\EXO\\ASPCoreMVCExo1\\Models\\Properties\\Propertie.cs",
+              "RelativeToolTip": "Models\\Properties\\Propertie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:41:30.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropertieController1.cs",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\AspNet\\EXO\\ASPCoreMVCExo1\\Controllers\\PropertieController1.cs",
+              "RelativeDocumentMoniker": "Controllers\\PropertieController1.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\AspNet\\EXO\\ASPCoreMVCExo1\\Controllers\\PropertieController1.cs",
+              "RelativeToolTip": "Controllers\\PropertieController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:33:47.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactController1.cs",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\AspNet\\EXO\\ASPCoreMVCExo1\\Controllers\\ContactController1.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactController1.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\AspNet\\EXO\\ASPCoreMVCExo1\\Controllers\\ContactController1.cs",
+              "RelativeToolTip": "Controllers\\ContactController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:33:11.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\AspNet\\EXO\\ASPCoreMVCExo1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\AspNet\\EXO\\ASPCoreMVCExo1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:32:12.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
