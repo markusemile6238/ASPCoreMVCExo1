@@ -15,13 +15,11 @@ namespace VillaAgency.Controllers
 
         public IActionResult Index()
         {
+            ViewBag.ActivePage = "Home";
+          
             return View();
         }
-
-        public IActionResult Privacy()
-        {
-            return View();
-        }
+        
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

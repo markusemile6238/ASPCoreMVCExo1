@@ -1,0 +1,25 @@
+﻿@using VillaAgency.Models.Properties.Tools
+@{
+    ViewData["Title"] = "Properties";
+}
+@section Styles {
+    <link rel="stylesheet" href="~/css/properties.css" asp-append-version="true" />
+}
+@model List<VillaAgency.Models.Properties.Propertie>
+
+<div class="main-banner">
+</div>
+
+
+<ul class="properties-filter mb-4 ">
+
+
+    @foreach (var type in Enum.GetValues(typeof(VillaAgency.PropertieType)).Cast<VillaAgency.PropertieType>())
+    {
+        var displayName = type.GetDescription(); // Utilisation directe de GetDescription
+        <li class="mx-2" data-type="@type" onclick="filterProperties('@type')">
+            <a href="#!" data-filter=".adv" class="">@displayName</a>
+        </li>
+    }
+</ul>
+

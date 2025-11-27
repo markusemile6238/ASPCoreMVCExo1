@@ -1,0 +1,12 @@
+﻿body {
+
+}
+
+div.main-banner{
+    width:100%;
+    background-color:red;
+    height:80vh;
+    background-image: url('../images/banner-01.jpg');
+    background-size:cover;
+    
+}

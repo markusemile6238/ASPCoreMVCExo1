@@ -12,6 +12,12 @@ html {
   box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
+*.container {
+    margin: 0 !important;
+    padding: 0 !important;
+    width:100vw;
+}
+
 html {
   position: relative;
   min-height: 100%;
@@ -19,4 +25,22 @@ html {
 
 body {
   margin-bottom: 60px;
+}
+
+.navbar a {
+   font-weight:bold;
+   color:#0a0909 !important
+}
+.navbar a.active {
+   font-weight:bold;
+   color:orangered !important
+}
+.navbar a:hover {
+    font-weight: bold;
+    color: orangered !important
+}
+main{
+    width:100vw;
+    margin: 0 !important;
+    padding:0 !important;
 }
